@@ -1,3 +1,2 @@
-jxxghp/MoviePilot
 linuxserver/qbittorrent
 linuxserver/transmission
