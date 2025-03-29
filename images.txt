@@ -1,4 +1,4 @@
-linuxserver/qbittorrent:4.6.7
+
 linuxserver/qbittorrent:latest
 linuxserver/transmission
 jxxghp/moviepilot-v2:latest
