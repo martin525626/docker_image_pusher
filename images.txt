@@ -2,3 +2,4 @@ nattertool/natter:latest
 linuxserver/qbittorrent:latest
 linuxserver/transmission
 jxxghp/moviepilot-v2:latest
+gdy666/lucky:latest
