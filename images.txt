@@ -3,4 +3,4 @@ linuxserver/transmission
 jxxghp/moviepilot-v2:latest
 gdy666/lucky:latest
 amilys/embyserver:latest
-iyuu/iyuuplus-dev:latest
+iyuucn/iyuuplus-dev:latest
